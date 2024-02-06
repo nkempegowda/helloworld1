@@ -10,6 +10,6 @@ public class InitController {
 
     @GetMapping
     public String sayHello(){
-        return "hello 1-5";
+        return "hello 1-6";
     }
 }
